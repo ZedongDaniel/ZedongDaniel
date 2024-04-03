@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Zedong Chen
+- 👋 Hi, I’m Zedong Chen, can also call me Daniel
 - 👀 I’m interested in quantitative finance and trading
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via: email: zc3048@nyu.edu; Linkedin: Zedong Chen
 - 😄 Pronouns: He/him/his
 
